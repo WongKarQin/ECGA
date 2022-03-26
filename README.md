@@ -7,5 +7,5 @@ the source of 2 public Web Phishing Detection datasets:<br>
 2.Tan C L. Phishing dataset for machine learning: Feature evaluation[J]. Mendeley Data, 2018, 1: 2018.<br>
 # Flow Chart of ECGA
 # Results
-# Cite the paper
+# Cite the Paper
 if there is any help for your work, please cite the paper:
